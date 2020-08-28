@@ -1,8 +1,11 @@
 {
   "name": "mochikit",
   "version": "1.0.0",
-  "description": "Mochikit ",
+  "description": "Mochikit",
   "main": "index.html",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/vrkansagara/mochikit/issues"
   },
-  "homepage": "https://github.com/vrkansagara/mochikit"
+  "homepage": "https://github.com/vrkansagara/mochikit",
+  "directories": {
+    "doc": "doc",
+    "example": "examples",
+    "lib": "lib",
+    "test": "tests"
+  }
 }
