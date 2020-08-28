@@ -1,0 +1,22 @@
+{
+  "name": "mochikit",
+  "version": "1.0.0",
+  "description": "Mochikit ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrkansagara/mochikit.git"
+  },
+  "keywords": [
+    "Mochikit"
+  ],
+  "author": "Vallabh Kansagara <vrkansagara@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/vrkansagara/mochikit/issues"
+  },
+  "homepage": "https://github.com/vrkansagara/mochikit"
+}
