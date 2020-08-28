@@ -1,6 +1,6 @@
 {
-  "name": "mochikit",
-  "version": "1.0.2",
+  "name": "@vrkansagara/mochikit",
+  "version": "1.0.3",
   "description": "Mochikit",
   "main": "index.html",
   "publishConfig": {
